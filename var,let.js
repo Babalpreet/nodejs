@@ -77,8 +77,8 @@ console.log(person);
 
  let a="2"+"2";
  console.log(a);
- console.log(typeof(a));
+ console.log(typeof(a));// string
 
  let b="2"+"2"-"2";
  console.log(b);
- console.log(typeof(b));
+ console.log(typeof(b));// number

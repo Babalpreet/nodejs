@@ -57,11 +57,16 @@
 // console.log(person.name);
 
 
-let car=[ 1,"audi","volvo","VW"];
-console.log(car);
-console.log(car[2]);
+// let car=[ 1,"audi","volvo","VW"];
+// console.log(car);
+// console.log(car[3]);
 
+const delayedFunction = () => {
+    console.log("Delayed function");
 
+};
+
+setTimeout(delayedFunction,2000);
 
 
 
